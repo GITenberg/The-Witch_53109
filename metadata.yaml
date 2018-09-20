@@ -1,5 +1,8 @@
 _repo: The-Witch_53109
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53109-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnston, Mary
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/695
     wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53109#The-Witch
 gutenberg_issued: '2016-09-21'
 gutenberg_type: Text
 identifiers:
